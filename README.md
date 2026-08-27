@@ -87,7 +87,7 @@ jupyter notebook notebooks/01_analisis_spotify.ipynb
 
 ## 10. Integrantes
 - María Calfileo
-- Sandra Chamorro
+- Stephanie Chamorro
 
 **Asignatura:** Machine Learning
 **Docente:** Victor Trigo
